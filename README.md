@@ -1,6 +1,7 @@
 # tropotomo
 
 If you are using this in your work, please cite tropotomo as:
+
 *Vikram KVNG. (2025). kvngvikram/tropotomo: Tropotomo: Voxel-Ray Intersection calculator (v0.1). Zenodo. https://doi.org/10.5281/zenodo.17011632*
 
 GNSS receiver network tropospheric tomography matrix calculator. For details regarding detailed explanation read `explanation.pdf`. Calculations done for small scale GNSS network with perfectly cuboidal voxels.
