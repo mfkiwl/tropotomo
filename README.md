@@ -1,5 +1,8 @@
 # tropotomo
 
+If you are using this in your work, please cite tropotomo as:
+*Vikram KVNG. (2025). kvngvikram/tropotomo: Tropotomo: Voxel-Ray Intersection calculator (v0.1). Zenodo. https://doi.org/10.5281/zenodo.17011632*
+
 GNSS receiver network tropospheric tomography matrix calculator. For details regarding detailed explanation read `explanation.pdf`. Calculations done for small scale GNSS network with perfectly cuboidal voxels.
 
 Basic tomography matrix equation is **y=Ax**, where **y** is a column matrix containing all the line integrated measurements, **x** is a column matrix of unknown parameters in each voxel and **A** is a rectangular matrix containing the intersection lengths of each line/ray and voxel. Each row in **A** corresponds to a ray and each column corresponds to voxel.
